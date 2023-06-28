@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2020110300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Top Performing Courses this Week]]></name>
+<summary><![CDATA[]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo1NDE6IlNFTEVDVCtDT05DQVQlMjglMjclM0NhK3RhcmdldCUzRCUyMl9uZXclMjIraHJlZiUzRCUyMiUyNSUyNVdXV1JPT1QlMjUlMjUlMkZjb3Vyc2UlMkZ2aWV3LnBocCUzRmlkJTNEJTI3JTJDYy5pZCUyQyUyNyUyMiUzRSUyNyUyQ2MuZnVsbG5hbWUlMkMlMjclM0MlMkZhJTNFJTI3JTI5K0FTK2NvdXJzZSUyQytDT1VOVCUyOERJU1RJTkNUK3VlLnVzZXJpZCUyOStBUyslMjJuZXcrZW5yb2xtZW50cyUyMiUwRCUwQSsrKytGUk9NK3ByZWZpeF9jb3Vyc2UrYyUwRCUwQSsrKytKT0lOK3ByZWZpeF9lbnJvbCtlK09OK2UuY291cnNlaWQrJTNEK2MuaWQlMEQlMEErKysrSk9JTitwcmVmaXhfdXNlcl9lbnJvbG1lbnRzK3VlK09OK3VlLmVucm9saWQrJTNEK2UuaWQlMEQlMEErKysrV0hFUkUrJTI4REFURURJRkYlMjhOT1clMjglMjklMkMrRlJPTV9VTklYVElNRSUyOHVlLnRpbWVzdGFydCUyOSUyOSUyOSslM0MrNyUwRCUwQSsrKytHUk9VUCtCWStjLmlkJTBEJTBBKysrK09SREVSK0JZK0NPVU5UJTI4RElTVElOQ1QrdWUudXNlcmlkJTI5K0RFU0MlMEQlMEEiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTI6IlNhdmUrY2hhbmdlcyI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319czoxMToicGVybWlzc2lvbnMiO2E6Mjp7czo2OiJjb25maWciO086ODoic3RkQ2xhc3MiOjE6e3M6MTM6ImNvbmRpdGlvbmV4cHIiO3M6MDoiIjt9czo4OiJlbGVtZW50cyI7YToxOntpOjA7YTo1OntzOjI6ImlkIjtzOjE1OiIza3FUWUlIbVdmYnFlMlUiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjA6e31zOjEwOiJwbHVnaW5uYW1lIjtzOjE5OiJyZXBvcnRzY2FwYWJpbGl0aWVzIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czoxOToiUmVwb3J0K0NhcGFiaWxpdGllcyI7czo3OiJzdW1tYXJ5IjtzOjYxOiJVc2Vycyt3aXRoK3RoZStjYXBhYmlsaXR5K21vb2RsZSUyRnNpdGUlM0F2aWV3cmVwb3J0cytlbmFibGVkIjt9fX19]]></components>
+<export><![CDATA[ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[19]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
